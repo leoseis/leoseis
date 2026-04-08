@@ -4,10 +4,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leoseis&show_icons=true&count_private=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoseis&layout=compact&theme=tokyonight" height="180"/>
-</p>
+![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoseis&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoseis&layout=compact&theme=tokyonight)
 
 ## 🚀 Tech Stack
 
