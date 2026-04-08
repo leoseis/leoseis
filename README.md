@@ -62,5 +62,5 @@ My personal developer portfolio.
 
 Email: [lee.emeliieze@gmail.com)
 phone :2348068338076
-LinkedIn: linkedin.com/in/yourprofile
+LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/leonard-emelieze-a6a003180/)
 ![Profile views](https://komarev.com/ghpvc/?username=leoseis)
