@@ -49,4 +49,5 @@ My personal developer portfolio.
 ## 📫 Contact
 
 Email: [lee.emeliieze@gmail.com)
+phone :2348068338076
 LinkedIn: linkedin.com/in/yourprofile
