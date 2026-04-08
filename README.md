@@ -1,9 +1,8 @@
 ## 📊 GitHub Stats
 
-![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoseis&show_icons=true&theme=tokyonight)
+![Leonard's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leoseis&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoseis&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leoseis&layout=compact&theme=tokyonight)
 ## 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
