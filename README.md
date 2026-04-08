@@ -17,34 +17,7 @@
 
 I build scalable web applications using **Django, React, and PostgreSQL**.
 
----
 
-## 🔧 Tech Stack
-
-**Backend**
-
-* Django
-* Django REST Framework
-* Python
-
-**Frontend**
-
-* React
-* JavaScript
-* Bootstrap
-
-**Database**
-
-* PostgreSQL
-* SQLite
-
-**Tools**
-
-* Git
-* Docker
-* Render
-
----
 
 ## 📌 Featured Projects
 
