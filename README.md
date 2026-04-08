@@ -3,7 +3,6 @@
 🚀 Django Full-Stack Developer | Seismologist | Tech Educator
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
 
 ![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoseis&show_icons=true&theme=tokyonight)
 
