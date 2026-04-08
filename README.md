@@ -1,6 +1,7 @@
 # Hi 👋 I'm Leonard
 
 🚀 Django Full-Stack Developer | Seismologist | Tech Educator
+
 ## 📊 GitHub Stats
 
 <p align="center">
