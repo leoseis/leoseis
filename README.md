@@ -20,7 +20,7 @@ I build scalable web applications using **Django, React, and PostgreSQL**.
 🛒 **Multi-Vendor Ecommerce Platform**
 Built with Django REST Framework and React.
 
-🌍 **Seismic Data Visualization Dashboard** *(coming soon)*
+🌍 **Seismic Data Visualization Dashboard** 
 A platform for analyzing seismic datasets.
 
 💼 **Portfolio Website**
