@@ -66,7 +66,8 @@ My background in seismic data analysis gives me a strong edge in:
 Built with Django REST Framework and React  
 - Authentication system  
 - Product management  
-- Payment integration  
+- Payment integration
+🔗https://marketplace-connect.onrender.com/
 
 ---
 
@@ -74,7 +75,9 @@ Built with Django REST Framework and React
 A platform for analyzing seismic datasets  
 - Data visualization  
 - Interactive dashboard  
-- Real-time insights  
+- Real-time insights
+- 
+ 🔗 https://frontend-seismic-dashboard.vercel.app/
 
 ---
 
