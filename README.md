@@ -1,36 +1,97 @@
-## 📊 GitHub Stats
+# 👋 Hi, I'm Leonard Emelieze
 
-![Leonard's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leoseis&show_icons=true&theme=tokyonight)
+🎯 **Full-Stack Python Developer | Django | React | Seismologist**
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leoseis&layout=compact&theme=tokyonight)
-## 🚀 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-I build scalable web applications using **Django, React, and PostgreSQL**.
-
-
-
-## 📌 Featured Projects
-
-🛒 **Multi-Vendor Ecommerce Platform**
-Built with Django REST Framework and React.
-
-🌍 **Seismic Data Visualization Dashboard** 
-A platform for analyzing seismic datasets.
-
-💼 **Portfolio Website**
-My personal developer portfolio.
+I build scalable web applications and data-driven systems that solve real-world problems.
 
 ---
 
-## 📫 Contact
+## 🚀 About Me
 
-Email: [lee.emeliieze@gmail.com)
-phone :2348068338076
-LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/leonard-emelieze-a6a003180/)
-![Profile views](https://komarev.com/ghpvc/?username=leoseis)
+I am a **Full-Stack Python Developer and Seismologist** with over 10 years of experience in geoscience and 5+ years in software development.
+
+I specialize in building **robust backend systems with Django and REST APIs**, and creating **interactive frontends with React**.
+
+My background in seismic data analysis gives me a strong edge in:
+- Problem-solving  
+- Data interpretation  
+- System design  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Backend
+- Python
+- Django
+- Django REST Framework
+
+### 🎨 Frontend
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+
+### 🗄 Database
+- PostgreSQL
+- SQLite
+
+### ⚙️ Tools
+- Git & GitHub
+- VS Code
+- Linux
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leoseis&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoseis&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=leoseis&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Multi-Vendor Ecommerce Platform
+Built with Django REST Framework and React  
+- Authentication system  
+- Product management  
+- Payment integration  
+
+---
+
+### 🌍 Seismic Data Visualization Dashboard
+A platform for analyzing seismic datasets  
+- Data visualization  
+- Interactive dashboard  
+- Real-time insights  
+
+---
+
+### 💼 Portfolio Website
+My personal developer portfolio  
+🔗 https://portfolio-dwxh.onrender.com  
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://portfolio-dwxh.onrender.com  
+- 💼 LinkedIn: (add your link)  
+- 📧 Email: (add your email)  
+
+---
+
+## ⚡ Fun Fact
+
+I combine **Geoscience + Software Engineering** to build solutions that make real-world impact 🌍
