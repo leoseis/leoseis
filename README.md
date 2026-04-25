@@ -90,8 +90,8 @@ My personal developer portfolio
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: https://portfolio-dwxh.onrender.com  
-- 💼 LinkedIn: (add your link)  
-- 📧 Email: (add your email)  
+- 💼 LinkedIn:https://www.linkedin.com/in/leonard-emelieze-a6a003180/
+- 📧 Email: lee.emeliieze@gmail.com 
 
 ---
 
