@@ -84,6 +84,7 @@ A platform for analyzing seismic datasets
 ### 💼 Portfolio Website
 My personal developer portfolio  
 🔗 https://portfolio-dwxh.onrender.com  
+phone : +2341 8068338076
 
 ---
 
