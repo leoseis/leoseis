@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Leonard Emelieze
 
-🎯 **Full-Stack Python Developer | Django | React | Seismologist**
+🎯 **Full-Stack Mobile Developer | Django | React | React Native Seismologist**
 
-I build scalable web applications and data-driven systems that solve real-world problems.
+I build scalable web and Mobile applications and data-driven systems that solve real-world problems.
 
 ---
 
 ## 🚀 About Me
 
-I am a **Full-Stack Python Developer and Seismologist** with over 10 years of experience in geoscience and 5+ years in software development.
+I am a **Full-Stack  Developer and Seismologist** with over 10 years of experience in geoscience and 5+ years in software development.
 
-I specialize in building **robust backend systems with Django and REST APIs**, and creating **interactive frontends with React**.
+I specialize in building **robust backend systems with Django and REST APIs**, and creating **interactive frontends with React and React Native**.
 
 My background in seismic data analysis gives me a strong edge in:
 - Problem-solving  
