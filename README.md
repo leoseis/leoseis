@@ -28,6 +28,8 @@ My background in seismic data analysis gives me a strong edge in:
 
 ### 🎨 Frontend
 - React
+- React Native
+- TypeScript
 - JavaScript
 - HTML5
 - CSS3
@@ -41,6 +43,8 @@ My background in seismic data analysis gives me a strong edge in:
 - Git & GitHub
 - VS Code
 - Linux
+- codex
+- claud
 
 ---
 
